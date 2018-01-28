@@ -1,0 +1,17 @@
+{
+  "name": "nunubot-test",
+  "version": "0.0.1",
+  "description": "A simple discord music bot.",
+  "main": "nunu.js",
+  "scripts": {
+	  "start": "node nunu.js"
+  },
+  "author": "itsrvn",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "glob": "^7.1.2",
+    "node-opus": "^0.2.7",
+    "ytdl-core": "^0.19.0"
+  }
+}
